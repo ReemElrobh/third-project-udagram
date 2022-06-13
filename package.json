@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "simple-git": "^3.7.1"
+  }
+}
