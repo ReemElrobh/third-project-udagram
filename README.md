@@ -14,3 +14,5 @@ The project will also include writing documentation and runbooks covering the op
 
 
 AWS Lnk: http://third-project-udagram.s3-website-us-east-1.amazonaws.com
+elastic beanstalk: http://udagram-api-dev.eba-prgpuwsh.us-east-1.elasticbeanstalk.com/
+RDS database: database-1.cmabb0dshjfk.us-east-1.rds.amazonaws.com

@@ -3,6 +3,7 @@
 my application has some objects on AWS:
 the s3 first object with the www folder: s3://third-project-udagram/www/
 the RDS object with the database: database-1.cmabb0dshjfk.us-east-1.rds.amazonaws.com
+Elastic Beanstalk: udagram-api-dev.eba-prgpuwsh.us-east-1.elasticbeanstalk.comy
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
